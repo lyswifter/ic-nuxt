@@ -1,0 +1,8 @@
+{
+	"canisters": {
+	  "lynuxt": {
+		"type": "assets",
+		"source": ["dist"]
+	  }
+	}
+}
